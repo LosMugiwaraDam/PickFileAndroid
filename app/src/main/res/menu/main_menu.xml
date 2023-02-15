@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="Archivo"
+        android:id="@+id/archivo"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_attach_file_24"/>
+    <item android:title="Camara"
+        android:id="@+id/camara"
+        app:showAsAction="always"
+        android:icon="@drawable/ic_baseline_local_see_24"/>
+</menu>
